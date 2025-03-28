@@ -7,3 +7,10 @@ Esta es una lista de frutas:
 - Manzana
 - Naranja
 - Banana
+
+
+## Imagenes de tanercito 
+
+[tanercito](https://es.wikipedia.org/wiki/Tanner_Buchanan#/media/Archivo:Tanner_Buchanan_(28000180628)_(cropped).jpg)  
+
+
